@@ -1,2 +1,3 @@
 # My CV 
-[idevkun](https://github.com/idevkun/rsschool-cv/blob/gh-pages/cv.md)
+https://idevkun.github.io/rsschool-cv
+https://idevkun.github.io/rsschool-cv/cv
