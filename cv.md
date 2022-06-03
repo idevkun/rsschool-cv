@@ -37,5 +37,7 @@ Hello, my name is Aibek. I am a frontend programmer. I am ready to learn new thi
 - English (Pre-Intermediate)
 - Russian (Intermediate)
 
+---
+
 #### Also view my projects on Github
 - [Github](https://github.com/idevkun)
