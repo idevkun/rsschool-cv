@@ -14,3 +14,28 @@ Hello, my name is Aibek. I am a frontend programmer. I am ready to learn new thi
 
 ---
 
+#### I know:
+- HTML&CSS
+   - SCSS
+   - Webpack, Gulp
+- Wordpress
+   - Elementor
+   - Working witch themes
+- React
+   - React Router v6
+- Git
+- Google office
+
+---
+
+#### Education:
+- Graduated **Tashkent University of Information Technologies** in 2022 year 
+
+---
+
+#### Languages I know:
+- English (Pre-Intermediate)
+- Russian (Intermediate)
+
+#### Also view my projects on Github
+- [Github](https://github.com/idevkun)
